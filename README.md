@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jmorse2020
 - 👀 I’m interested in Swift and c#.
-- 🌱 I’m currently learning Swift through general programming and the 100 Days of SwiftUI course, and am using c# as a language to eventually build a control system for a future business.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Through my email: jack.morse2001+github@gmail.com
 
