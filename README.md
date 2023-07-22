@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jmorse2020
-- 👀 I’m interested in Swift, c#, Python, Matlab.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Swift, C#, Python, MATLAB.
 - 📫 How to reach me: Through my email: jack.morse2001+github@gmail.com
 
 <!---
